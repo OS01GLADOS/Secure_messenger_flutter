@@ -1,6 +1,8 @@
 # secure_messendger
 
-something
+flutter client for node.js server 
+
+[link to git with server](https://github.com/FabiusBille/infodef)
 
 ## Getting Started
 
